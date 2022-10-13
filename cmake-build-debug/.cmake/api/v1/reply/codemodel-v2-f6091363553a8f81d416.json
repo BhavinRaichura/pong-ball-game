@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/bhavin/CLionProjects/untitled1/cmake-build-debug",
-		"source" : "/home/bhavin/CLionProjects/untitled1"
+		"build" : "/home/bhavin/CLionProjects/pong-ball-game/cmake-build-debug",
+		"source" : "/home/bhavin/CLionProjects/pong-ball-game"
 	},
 	"version" : 
 	{

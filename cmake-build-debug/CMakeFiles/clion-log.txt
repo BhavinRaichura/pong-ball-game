@@ -1,4 +1,4 @@
-/snap/clion/209/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/209/bin/ninja/linux/ninja -G Ninja -S /home/bhavin/CLionProjects/untitled1 -B /home/bhavin/CLionProjects/untitled1/cmake-build-debug
+/snap/clion/209/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/209/bin/ninja/linux/ninja -G Ninja -S /home/bhavin/CLionProjects/pong-ball-game -B /home/bhavin/CLionProjects/pong-ball-game/cmake-build-debug
 -- The C compiler identification is GNU 11.2.0
 -- The CXX compiler identification is GNU 11.2.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/bhavin/CLionProjects/untitled1/cmake-build-debug
+-- Build files have been written to: /home/bhavin/CLionProjects/pong-ball-game/cmake-build-debug
